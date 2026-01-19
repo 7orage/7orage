@@ -3,7 +3,7 @@
 ![Mon image](Includes/Backgrounf-github.jpg)
 
 
-<img src="Static Badge" src="https://img.shields.io/badge/C-Junior?style=plastic&logo=C&logoColor=white&label=Junior&labelColor=a47dab&color=ff8da1">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-Junior?style=plastic&logo=C&logoColor=white&label=Junior&labelColor=a47dab&color=ff8da1" width="200">
 
 
 <!--
