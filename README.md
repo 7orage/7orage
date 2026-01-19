@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img alt="Static Badge" src="https://img.shields.io/badge/C-Junior?style=social&logo=C&logoColor=white&label=Junior&labelColor=a47dab&color=ff8da1">
 
 <!--
 **7orage/7orage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
