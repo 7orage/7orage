@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Mon image](Includes/Backgrounf-github.jpg)
 <img src="Includes/Backgrounf-github.jpg" width="200"/>
 
 
